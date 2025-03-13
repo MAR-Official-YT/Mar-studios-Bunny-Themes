@@ -1,55 +1,60 @@
 {
-  "name": "Burple Twilight Theme",
-  "description": "A sleek and modern Discord theme with burple twilight tones.",
+  "name": "Citrus Sherbert",
+  "description": "A citrus-inspired theme with a sleek and modern dark aesthetic.",
   "authors": [
     {
       "name": "MAR Studios"
     }
   ],
   "semanticColors": {
-    "BACKGROUND_ACCENT": ["#7289da", "#7289da"],
-    "BACKGROUND_PRIMARY": ["#23272a", "#2c2f33"],
-    "BACKGROUND_SECONDARY": ["#2c2f33", "#23272a"],
-    "BACKGROUND_SECONDARY_ALT": ["#2c2f33", "#2c2f33"],
-    "BACKGROUND_TERTIARY": ["#2f3136", "#23272a"],
-    "CHAT_BACKGROUND": ["#2c2f33", "#23272a"],
-    "HEADER_PRIMARY": ["#ffffff", "#ffffff"],
-    "HEADER_SECONDARY": ["#99aab5", "#99aab5"],
-    "INTERACTIVE_NORMAL": ["#7289da", "#7289da"],
-    "INTERACTIVE_HOVER": ["#99aab5", "#99aab5"],
-    "INTERACTIVE_ACTIVE": ["#ffffff", "#ffffff"],
+    "BACKGROUND_ACCENT": ["#ffa552", "#ffa552"],
+    "BACKGROUND_PRIMARY": ["#1e2124", "#25282c"],
+    "BACKGROUND_SECONDARY": ["#25282c", "#1e2124"],
+    "BACKGROUND_TERTIARY": ["#2b2e33", "#23272a"],
+    "CHAT_BACKGROUND": ["#25282c", "#1e2124"],
+    "HEADER_PRIMARY": ["#ffcc66", "#ffcc66"],
+    "HEADER_SECONDARY": ["#ffa552", "#ffa552"],
+    "INTERACTIVE_NORMAL": ["#ffc857", "#ffc857"],
+    "INTERACTIVE_HOVER": ["#ffb347", "#ffb347"],
+    "INTERACTIVE_ACTIVE": ["#ffa552", "#ffa552"],
     "TEXT_NORMAL": ["#ffffff", "#ffffff"],
-    "TEXT_MUTED": ["#99aab5", "#99aab5"],
-    "TEXT_PRIMARY": ["#ffffff", "#ffffff"],
-    "TEXT_LINK": ["#7289da", "#7289da"],
-    "INPUT_BACKGROUND": ["#2c2f33", "#23272a"],
-    "EMBED_BACKGROUND": ["#2f3136", "#23272a"],
-    "CARD_PRIMARY_BG": ["#23272a", "#2c2f33"],
-    "CARD_PRIMARY_PRESSED_BG": ["#7289da", "#7289da"]
+    "TEXT_MUTED": ["#dcdcdc", "#dcdcdc"],
+    "TEXT_PRIMARY": ["#ffa552", "#ffa552"],
+    "TEXT_LINK": ["#ffc857", "#ffc857"],
+    "INPUT_BACKGROUND": ["#2b2e33", "#23272a"],
+    "EMBED_BACKGROUND": ["#2b2e33", "#23272a"],
+    "CARD_PRIMARY_BG": ["#1e2124", "#25282c"],
+    "CARD_PRIMARY_PRESSED_BG": ["#ffa552", "#ffa552"]
   },
   "rawColors": {
-    "BRAND_300": "#7289da",
-    "BRAND_500": "#7289da",
-    "CHAT_MENTIONS_FOREGROUND_DARK": "#7289da",
-    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#7289da",
-    "CHAT_MENTIONS_BACKGROUND_DARK": "#7289da4d",
-    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#7289da4d",
+    "BRAND_300": "#ffa552",
+    "BRAND_500": "#ffcc66",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#ffa552",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#ffa552",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#ffa55233",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#ffa55233",
     "WHITE": "#ffffff",
     "TEXT_NORMAL": "#ffffff",
-    "TEXT_MUTED": "#99aab5",
-    "CHAT_BACKGROUND": "#2c2f33"
+    "TEXT_MUTED": "#dcdcdc",
+    "CHAT_BACKGROUND": "#25282c"
+  },
+  "background": {
+    "blur": 5,
+    "url": "https://raw.githubusercontent.com/MAR/Vendetta-discord-theme/main/theme_BG/background.jpg",
+    "alpha": 0.8,
+    "color": "#25282c"
   },
   "plus": {
     "version": "0",
     "customOverlays": true,
-    "mentionLineColor": "#7289da",
+    "mentionLineColor": "#ffa552",
     "icons": {
-      "StatusOnline": "#7289da",
-      "StatusIdle": "#faa61a",
-      "StatusDND": "#f04747",
-      "StatusOffline": "#747f8d",
-      "SettingsIcon": "#7289da",
-      "ShopIcon": "#7289da"
+      "StatusOnline": "#ffa552",
+      "StatusIdle": "#ffcc66",
+      "StatusDND": "#ff8c42",
+      "StatusOffline": "#737373",
+      "SettingsIcon": "#ffa552",
+      "ShopIcon": "#ffc857"
     }
   },
   "spec": 2
