@@ -1,0 +1,60 @@
+{
+  "name": "Burple Twilight Theme",
+  "description": "A refined Discord theme based on the Blurple Twilight palette.",
+  "authors": [
+    {
+      "name": "MaR Studios"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#5865F2", "#5865F2"],
+    "BACKGROUND_PRIMARY": ["#0D1AA4", "#1021D4"],
+    "BACKGROUND_SECONDARY": ["#1021D4", "#0D1AA4"],
+    "BACKGROUND_TERTIARY": ["#2939EE", "#1021D4"],
+    "CHAT_BACKGROUND": ["#0D1AA4", "#1021D4"],
+    "HEADER_PRIMARY": ["#E6E8FD", "#E6E8FD"],
+    "HEADER_SECONDARY": ["#B7BCF9", "#B7BCF9"],
+    "INTERACTIVE_NORMAL": ["#5865F2", "#5865F2"],
+    "INTERACTIVE_HOVER": ["#8791F6", "#8791F6"],
+    "INTERACTIVE_ACTIVE": ["#2939EE", "#2939EE"],
+    "TEXT_NORMAL": ["#E6E8FD", "#E6E8FD"],
+    "TEXT_MUTED": ["#B7BCF9", "#B7BCF9"],
+    "TEXT_PRIMARY": ["#E6E8FD", "#E6E8FD"],
+    "TEXT_LINK": ["#8791F6", "#8791F6"],
+    "INPUT_BACKGROUND": ["#1021D4", "#2939EE"],
+    "EMBED_BACKGROUND": ["#1021D4", "#2939EE"],
+    "CARD_PRIMARY_BG": ["#1021D4", "#2939EE"],
+    "CARD_PRIMARY_PRESSED_BG": ["#5865F2", "#5865F2"]
+  },
+  "rawColors": {
+    "BRAND_300": "#5865F2",
+    "BRAND_500": "#2939EE",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#5865F2",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#5865F2",
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#5865F244",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#5865F244",
+    "WHITE": "#E6E8FD",
+    "TEXT_NORMAL": "#E6E8FD",
+    "TEXT_MUTED": "#B7BCF9",
+    "CHAT_BACKGROUND": "#0D1AA4"
+  },
+  "background": {
+    "blur": 5,
+    "alpha": 0.9,
+    "color": "#0D1AA4"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "mentionLineColor": "#5865F2",
+    "icons": {
+      "StatusOnline": "#5865F2",
+      "StatusIdle": "#8791F6",
+      "StatusDND": "#2939EE",
+      "StatusOffline": "#1021D4",
+      "SettingsIcon": "#5865F2",
+      "ShopIcon": "#5865F2"
+    }
+  },
+  "spec": 2
+}
