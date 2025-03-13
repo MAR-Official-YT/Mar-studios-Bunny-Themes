@@ -1,9 +1,9 @@
 {
-  "name": "Citrus Sherbert",
+  "name": "Citrus Sherbert Dark",
   "description": "A citrus-inspired theme with a sleek and modern dark aesthetic.",
   "authors": [
     {
-      "name": "MAR Studios"
+      "name": "MaR Studios"
     }
   ],
   "semanticColors": {
@@ -39,10 +39,9 @@
     "CHAT_BACKGROUND": "#25282c"
   },
   "background": {
-    "blur": 5,
-    "url": "https://raw.githubusercontent.com/MAR/Vendetta-discord-theme/main/theme_BG/background.jpg",
-    "alpha": 0.8,
-    "color": "#25282c"
+    "blur": 0,
+    "alpha": 1,
+    "color": "#FEF0D6"
   },
   "plus": {
     "version": "0",
