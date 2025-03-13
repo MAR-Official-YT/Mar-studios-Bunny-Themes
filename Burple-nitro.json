@@ -1,17 +1,17 @@
 {
   "name": "Burple Twilight Theme",
-  "description": "A refined Discord theme based on the Blurple Twilight palette.",
+  "description": "A sleek and modern theme inspired by Discord's signature blurple twilight aesthetic.",
   "authors": [
     {
-      "name": "MaR Studios"
+      "name": "Mahad"
     }
   ],
   "semanticColors": {
     "BACKGROUND_ACCENT": ["#5865F2", "#5865F2"],
-    "BACKGROUND_PRIMARY": ["#0D1AA4", "#1021D4"],
-    "BACKGROUND_SECONDARY": ["#1021D4", "#0D1AA4"],
-    "BACKGROUND_TERTIARY": ["#2939EE", "#1021D4"],
-    "CHAT_BACKGROUND": ["#0D1AA4", "#1021D4"],
+    "BACKGROUND_PRIMARY": ["#0D1AA4", "#0D1AA4"],
+    "BACKGROUND_SECONDARY": ["#1021D4", "#1021D4"],
+    "BACKGROUND_TERTIARY": ["#1021D4", "#0D1AA4"],
+    "CHAT_BACKGROUND": ["#0D1AA4", "#0D1AA4"],
     "HEADER_PRIMARY": ["#E6E8FD", "#E6E8FD"],
     "HEADER_SECONDARY": ["#B7BCF9", "#B7BCF9"],
     "INTERACTIVE_NORMAL": ["#5865F2", "#5865F2"],
@@ -21,9 +21,9 @@
     "TEXT_MUTED": ["#B7BCF9", "#B7BCF9"],
     "TEXT_PRIMARY": ["#E6E8FD", "#E6E8FD"],
     "TEXT_LINK": ["#8791F6", "#8791F6"],
-    "INPUT_BACKGROUND": ["#1021D4", "#2939EE"],
-    "EMBED_BACKGROUND": ["#1021D4", "#2939EE"],
-    "CARD_PRIMARY_BG": ["#1021D4", "#2939EE"],
+    "INPUT_BACKGROUND": ["#0D1AA4", "#1021D4"],
+    "EMBED_BACKGROUND": ["#1021D4", "#0D1AA4"],
+    "CARD_PRIMARY_BG": ["#0D1AA4", "#0D1AA4"],
     "CARD_PRIMARY_PRESSED_BG": ["#5865F2", "#5865F2"]
   },
   "rawColors": {
@@ -40,6 +40,7 @@
   },
   "background": {
     "blur": 5,
+    "url": "https://your-image-url-here.com/background.jpg",
     "alpha": 0.9,
     "color": "#0D1AA4"
   },
